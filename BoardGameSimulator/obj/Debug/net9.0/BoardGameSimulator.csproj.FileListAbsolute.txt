@@ -1,0 +1,15 @@
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\bin\Debug\net9.0\BoardGameSimulator.exe
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\bin\Debug\net9.0\BoardGameSimulator.deps.json
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\bin\Debug\net9.0\BoardGameSimulator.runtimeconfig.json
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\bin\Debug\net9.0\BoardGameSimulator.dll
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\bin\Debug\net9.0\BoardGameSimulator.pdb
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\BoardGameSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\BoardGameSimulator.AssemblyInfoInputs.cache
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\BoardGameSimulator.AssemblyInfo.cs
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\BoardGameSimulator.csproj.CoreCompileInputs.cache
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\BoardGameSimulator.sourcelink.json
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\BoardGameSimulator.dll
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\refint\BoardGameSimulator.dll
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\BoardGameSimulator.pdb
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\BoardGameSimulator.genruntimeconfig.cache
+C:\Users\macie\RiderProjects\BoardGameSimulator\BoardGameSimulator\obj\Debug\net9.0\ref\BoardGameSimulator.dll

@@ -21,11 +21,11 @@ namespace BoardGameSimulator
             {
                 if (rand.Next(0, 10) < 3)
                 {
-                    fields[i] = "Reward";
+                    fields[i] = "Nagroda";
                 }
                 else
                 {
-                    fields[i] = "Empty";
+                    fields[i] = "Puste";
                 }
             }
         }
@@ -36,7 +36,7 @@ namespace BoardGameSimulator
             {
                 return fields[position];
             }
-            return "Out of bounds";
+            return "Poza planszą";
         }
     }
 }
